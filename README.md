@@ -1,6 +1,8 @@
 # MobileNet
 Implementation of several MobileNet versions
 
+________________________________________
+
 MobileNet
 
 Статья: Andrew G. Howard, Menglong Zhu, Bo Chen, Dmitry Kalenichenko, Weijun Wang, Tobias Weyand, Marco Andreetto, and Hartwig Adam.
