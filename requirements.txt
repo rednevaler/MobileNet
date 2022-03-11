@@ -1,0 +1,9 @@
+numpy
+torch>=1.6.0
+matplotlib
+torchvision
+tqdm
+tensorboardX
+argparse
+pickle
+os
